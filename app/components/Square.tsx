@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { ChessPiece, PieceType, Color } from '../types/chess';
 import ChessPieceComponent from './ChessPieceComponent';
